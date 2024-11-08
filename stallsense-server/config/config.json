@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "stallsense",
+    "password": "PASSWORD",
+    "database": "stallsense",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "stallsense",
+    "password": "PASSWORD",
+    "database": "stallsense",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "stallsense",
+    "password": "PASSWORD",
+    "database": "stallsense",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
